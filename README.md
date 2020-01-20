@@ -21,3 +21,4 @@
 
 - No esta permitido usar bootstrap. 
 
+- los colores usados son 1a75bc y fed201, la imagen es https://www.flickr.com/photos/38203831@N00/168638725
